@@ -3,3 +3,4 @@ B New Text.
 C New Text.
 D New Text.
 Git tracks changes.
+Creating a new branch is quick.
